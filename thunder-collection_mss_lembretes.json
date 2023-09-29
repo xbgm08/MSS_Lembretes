@@ -1,0 +1,31 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "mss_lembretes",
+    "dateExported": "2023-09-20T19:16:43.510Z",
+    "version": "1.1",
+    "folders": [
+        {
+            "_id": "6cbff048-612c-4922-8d40-009ac359d016",
+            "name": "lembretes",
+            "containerId": "",
+            "created": "2023-09-20T19:14:47.329Z",
+            "sortNum": 10000
+        }
+    ],
+    "requests": [
+        {
+            "_id": "fd693e3e-226a-4e02-91b9-f910d5e46e50",
+            "colId": "4bdbc948-f03a-49d0-a589-5c76649703c3",
+            "containerId": "6cbff048-612c-4922-8d40-009ac359d016",
+            "name": "localhost:4000/lembretes",
+            "url": "localhost:4000/lembretes",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-09-20T19:15:35.922Z",
+            "modified": "2023-09-20T19:15:35.922Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
